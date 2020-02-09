@@ -39,7 +39,3 @@ print "Number of empty list items: " + str(n_empty_items)
 print "Unrecognized list items:"
 for item in unrecognized_items:
     print item
-
-# Questions coming forward from this set:
-# x
-#
